@@ -41,3 +41,9 @@
     align-items: center;
     justify-content: center;
 }
+
+/* :nth-child() busca pelo segundo filho dentro da classe */
+.menu-time h2:nth-child(2), 
+.menu-score h2:nth-child(2) {
+    margin-top: 1rem;
+}
