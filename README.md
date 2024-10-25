@@ -30,5 +30,5 @@
 
 <h1> Site do jogo </h1>
 <p> Para quem deseja jogar o jogo Detona Halph está disponivel neste site.</p>
-<a href="https://duarte-arthur21.github.io/Jogo-Detona-Ralph/" target="_blank">https://duarte-arthur21.github.io/Jogo-Detona-Ralph/ </a>
+<a href="https://duarte-arthur21.github.io/Jogo-Detona-Ralph/" target="_blank">Jogo Detona Ralph/ </a>
 
