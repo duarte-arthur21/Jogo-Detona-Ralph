@@ -30,4 +30,4 @@
 
 <h1> Site do jogo </h1>
 <p> Para quem deseja jogar o jogo Detona Halph está disponivel neste site.</p>
-https://github.com/duarte-arthur21 
+https://duarte-arthur21.github.io/Jogo-Detona-Ralph/ 
